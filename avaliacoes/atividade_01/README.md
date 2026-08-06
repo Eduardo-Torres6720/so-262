@@ -2,4 +2,4 @@
 
 ### Criação do repositório para as atividades de Sistemas Operacionais.
 
-**Instituto Federal de Ciências e Tecnológias do Ceará**
+**Instituto Federal de Ciências e Tecnologia do Ceará**
